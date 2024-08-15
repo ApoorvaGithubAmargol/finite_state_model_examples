@@ -23,4 +23,15 @@ This Verilog code defines a Finite State Machine (FSM) that detects the occurren
 - Default Case: If, for some reason, the FSM ends up in an undefined state, it will reset to S0, and the output detected will be 0
 
 HERE IS THE IMAGE OF SIMULATION:
+
+1
+
 <img src="verilog1.png" width="500">
+
+2
+
+<IMG SRC="verilog11.png" width="500">
+
+3
+
+<img  src="verilog12.png" width="500">
