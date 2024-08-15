@@ -23,4 +23,4 @@ This Verilog code defines a Finite State Machine (FSM) that detects the occurren
 - Default Case: If, for some reason, the FSM ends up in an undefined state, it will reset to S0, and the output detected will be 0
 
 HERE IS THE IMAGE OF SIMULATION:
-![Simulated waveform]()
+<img src="verilog1.png" width="500">
