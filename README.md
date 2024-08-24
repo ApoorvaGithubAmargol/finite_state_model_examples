@@ -7,7 +7,9 @@ There are varies types of finite state machines- Mealy and Moore.
 <img src="mealyandmoore.png" width="500" />
 -- image credits: https://youtu.be/tzxaf-CNU3Q?si=QtgpCrI3O288x6-h
 
-
+-----------
+ __THE FOLLOWING IS MY PROJECT SUMMARY__
+ 
 This Verilog code defines a Finite State Machine (FSM) that detects the occurrence of two consecutive 1s in an input bitstream. 
 - Inputs and Outputs
 -- clk: The clock signal that drives the FSM.
