@@ -1,4 +1,20 @@
-# finite_state_model_examples
+# CODTECH TASK 2
+**Name:** Apoorva Amargol
+
+**Company:** CODTECH IT SOLUTIONS
+
+**ID:** CT08DS6751
+
+**Domain:** VLSI
+
+**Duration:** AUGUST to SEPTEMBER (2024)
+
+**Mentor:** 
+
+________
+  Overview of the task 1: Finite state machine
+
+  
 The repository consist of verilog code and testbench for simple test benches
 FSM are finite state machine.
 The output of this machine is finite or singular depending on the input.
