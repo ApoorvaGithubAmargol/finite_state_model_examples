@@ -1,4 +1,4 @@
-# CODTECH TASK 2
+# CODTECH TASK 1
 **Name:** Apoorva Amargol
 
 **Company:** CODTECH IT SOLUTIONS
