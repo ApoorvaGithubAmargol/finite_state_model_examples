@@ -9,7 +9,7 @@
 
 **Duration:** AUGUST to SEPTEMBER (2024)
 
-**Mentor:** 
+**Mentor:** Muzammil ahmed
 
 ________
   Overview of the task 1: Finite state machine
